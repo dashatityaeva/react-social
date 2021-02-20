@@ -1,0 +1,15 @@
+.banner {
+  grid-area: banner;
+  background-color: cornflowerblue;
+}
+.banner img {
+  height: 100%;
+}
+
+.loginBlock {
+  float: right;
+}
+
+.loginBlock a {
+  color: white;
+}

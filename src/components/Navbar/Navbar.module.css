@@ -1,0 +1,15 @@
+.menu {
+  grid-area: menu;
+  background-color: rgb(237, 100, 219);
+  padding: 20px;
+}
+
+.item a {
+  color: #ffffff;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.item a.active {
+  color: #000;
+}
